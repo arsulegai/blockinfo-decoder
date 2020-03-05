@@ -1,4 +1,4 @@
-# blockinfo-decoder
+# BlockInfo-Decoder
 Decode the blockinfo payload from the Hyperledger Sawtooth
 
 ## Build
@@ -16,5 +16,5 @@ $ make
 Once the binary is available, run it as follows
 
 ```shell_script
-$ 
+$ ./blockinfo-decoder <Block Info Config Payload>
 ```
